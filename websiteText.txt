@@ -1,0 +1,21 @@
+Apps 
+TU Mapper and Dresden 
+
+
+Final Year Mobile Application, in conjunction with the Use-It company, creating an interactive map of Dresden. 
+Project earned a 2:1. 
+
+Python Project 
+- Could I implement this online? Probably Not 
+
+Game Of Flags 
+Created and published a mapping website teaching children and adults flags of the world. Extended it by WHAT. Number of views a day is WHAT.  
+
+Buckland Nurseries 
+Created website for family business and monitored the results of the implementation. As a result the number of webviews increased by WHAT and the number of ratings on Google by WHICH.  
+
+Legible London
+Designed, researched and wrote 10,000 word thesis analysing the design and implementation of Transport for London’s “Legible London” pedestrian wayfinding maps. Based on interviews with designers and discourse methods on the maps’ design documents and final cartographic outputs. 
+
+World Health Organisation 
+
